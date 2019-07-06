@@ -1,6 +1,6 @@
 pipeline {
  agent any
-  stages {
+ stages {
    stage {'Build'} {
     steps {
       echo 'Muhammad Asim Arain Running Build Automation'
